@@ -1,1 +1,3 @@
 adding some text int he text folder file.
+
+my testing objectiv si fulfilled, because git tracks file in subdirectories also as expected....
