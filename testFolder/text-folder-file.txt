@@ -1,3 +1,5 @@
 adding some text int he text folder file.
 
 my testing objectiv si fulfilled, because git tracks file in subdirectories also as expected....
+
+This line is addeed to see if I can track changes in the local machine
